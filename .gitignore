@@ -1,0 +1,11 @@
+#build files
+build/
+
+#generated files
+touch/
+bootstrap.js
+bootstrap.json
+
+
+#resources
+resources/
