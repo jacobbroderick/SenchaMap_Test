@@ -1,11 +1,9 @@
-#build files
+# build files
 build/
 
-#generated files
-touch/
-bootstrap.js
-bootstrap.json
+# resources
+resources/sass/.sass-cache/*
 
-
-#resources
-resources/
+# tmp and log files
+*.tmp
+*.log
