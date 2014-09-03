@@ -19,6 +19,7 @@ Ext.application({
 
     views: [
         'Main'
+		'Map'
     ],
 
     icon: {
