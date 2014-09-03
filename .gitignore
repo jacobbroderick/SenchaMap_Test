@@ -1,9 +1,9 @@
-#build files
+# build files
 build/
 
-#generated files
+# resources
 resources/sass/.sass-cache/*
 
-#tmp and log files
+# tmp and log files
 *.tmp
 *.log
