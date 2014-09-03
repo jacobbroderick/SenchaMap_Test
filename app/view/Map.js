@@ -1,7 +1,8 @@
-Ext.define("map_test.view.Map", {
+Ext.define('map_test.view.Map', {
 	extend: 'Ext.Container',
 	requires: ['Ext.Map'],
-	xtype: 'mapview',
+	xtype: 'maptestview',
+
 	config: {
 		layout: 'fit',
 		items: [
@@ -9,5 +10,5 @@ Ext.define("map_test.view.Map", {
 				xtype: 'map'
 			}
 		]
-	},
-}
+	}
+});
