@@ -8,7 +8,7 @@ Ext.define('map_test.view.Main', {
 		layout: 'fit',
         items: [
             {
-				xtype: 'map'
+				xtype: 'maptestview'
 
             },
         ]
